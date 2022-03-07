@@ -1,0 +1,3 @@
+student #1 Average is: -5.72662e+08
+student #2 Average is: -5.72662e+08
+student #3 Average is: -5.72662e+08
